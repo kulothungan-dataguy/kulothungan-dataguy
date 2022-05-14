@@ -21,8 +21,8 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### :man_technologist: I'm Kulo and welcome to my GitHub profile! :octocat: :
+I'm a Data Science practitioner, Internt of Things , Embedded Engineer and a Content Creator! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Data Analyst and contributing to inference and predictive analytics.
 
